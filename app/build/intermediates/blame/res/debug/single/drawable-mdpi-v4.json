@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/deathwish/AndroidStudioProjects/Kairos-SDK-Android-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/deathwish/AndroidStudioProjects/Kairos-SDK-Android-master/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/deathwish/AndroidStudioProjects/Kairos-SDK-Android-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/liz.jpg",
+        "source": "/home/deathwish/AndroidStudioProjects/Kairos-SDK-Android-master/app/src/main/res/drawable-mdpi/liz.jpg"
+    }
+]

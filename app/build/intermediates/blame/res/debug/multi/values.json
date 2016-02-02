@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/deathwish/AndroidStudioProjects/Kairos-SDK-Android-master/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "/home/deathwish/AndroidStudioProjects/Kairos-SDK-Android-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 50,
+                        "endOffset": 101
+                    }
+                }
+            }
+        ]
+    }
+]
